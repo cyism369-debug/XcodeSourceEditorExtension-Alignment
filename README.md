@@ -5,7 +5,7 @@ This Xcode source editor extension align your assignment statement.
 ![c](https://cloud.githubusercontent.com/assets/1665104/16102266/ae4a0b24-33a8-11e6-943e-9a00eb6e9802.gif)
 
 ## Install:
-[![download_on_the_mac_app_store_badge_us-uk_165x40](https://cloud.githubusercontent.com/assets/1665104/19629909/de5c7a64-99b9-11e6-88fc-2a39c8849920.png)](https://itunes.apple.com/us/app/alignment-for-xcode/id1168397789?ls=1&mt=12)
+[![download_on_the_mac_app_store_badge_us-uk_165x40](https://cloud.githubusercontent.com/assets/1665104/19629909/de5c7a64-99b9-11e6-88fc-2a39c8849920.png)](https://itunes.apple.com/us/app/alignment-for-xcode/)
 
 ![system preferences](https://cloud.githubusercontent.com/assets/1665104/19801236/5dc1dfec-9d39-11e6-8dc3-8cff3d7e9921.png)
 
@@ -21,7 +21,7 @@ This Xcode source editor extension align your assignment statement.
 ## Settings:
 ![screen shot 2017-02-09 at 17 09 15](https://cloud.githubusercontent.com/assets/1665104/22777668/521450de-eef7-11e6-98a3-82fe4e1b9188.png)
 * Align assignment  
-  When checked, assignment statement align will be enabled.
+  When checked, assignment statement align will be enabled.
   
   ```
   let value = 0
